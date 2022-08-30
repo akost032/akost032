@@ -1,13 +1,5 @@
 # Hi there, I'm Angel Kostadinov! 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
-
-
 ## I'm a Developer in the making!
 
 - 🌱 I'm currently studying the C# Web Development path
@@ -21,9 +13,9 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/angel-kostadinov-944968169)
+[![website](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.cvivbqtnd0-KhwAHyoyPawHaHw%26pid%3DApi&f=1)](https://www.linkedin.com/in/angel-kostadinov-944968169)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/akostadinov13/)
+[![website](https://i.pinimg.com/originals/a2/b4/ef/a2b4efce93178d2283603e0e962114cb.jpg)](https://www.instagram.com/akostadinov13/)
 
 ### Languages and Tools:
 
