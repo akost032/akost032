@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="26px" src= (https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg)>(https://www.linkedin.com/in/angel-kostadinov-944968169)]
-[<img align="left" alt="Instagram" width="26px" src= (https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)>(https://www.instagram.com/akostadinov13)]
+- Instagram: https://www.instagram.com/akostadinov13
+- LinkedIn: https://www.linkedin.com/in/angel-kostadinov-944968169
 
 ### Languages and Tools:
 
@@ -22,8 +22,8 @@
 [<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Git-icon-black.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://www.pngfind.com/pngs/m/176-1766942_our-github-repos-are-here-github-icon-hd.png" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="padding-right:10px;" />]
 
 
 <br />
@@ -36,5 +36,3 @@
 
 </details>
 
-[instagram]: https://www.instagram.com/akostadinov13/
-[linkedin]: https://www.linkedin.com/in/angel-kostadinov-944968169
