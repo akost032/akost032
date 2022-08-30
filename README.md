@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[(./img/linkedin-dark.svg)](https://www.linkedin.com/in/angel-kostadinov-944968169)
+[(./img/instagram-dark.svg)](https://www.instagram.com/akostadinov13)
 
 ### Languages and Tools:
 
